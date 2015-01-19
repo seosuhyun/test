@@ -1,0 +1,4 @@
+
+(process:1513): Indicator-Datetime-WARNING **: indicator-datetime cannot connect to EDS source: Unable to connect to '개인': Cannot open calendar: Cannot parse ISC file '/home/seo/.local/share/evolution/calendar/system/calendar.ics'
+
+(process:1513): Indicator-Datetime-WARNING **: indicator-datetime cannot connect to EDS source: Unable to connect to '개인': Cannot open calendar: Cannot parse ISC file '/home/seo/.local/share/evolution/tasks/system/tasks.ics'
